@@ -1,0 +1,56 @@
+[
+  {
+    "id": "airport-transfer",
+    "title": "Airport Transfer",
+    "shortDesc": "Reliable pickup and drop-off at Jeddah, Madinah, and Riyadh airports.",
+    "description": "Our airport transfer service ensures seamless travel between major Saudi airports and your destination. We track flights, handle delays, and provide meet-and-greet services with professional drivers waiting for you at arrivals.",
+    "icon": "Plane",
+    "features": ["Flight tracking", "Meet & greet", "24/7 availability", "Free waiting time"],
+    "color": "green"
+  },
+  {
+    "id": "umrah-ziyarat",
+    "title": "Umrah & Ziyarat",
+    "shortDesc": "Spiritual journeys to Makkah, Madinah, and sacred historical sites.",
+    "description": "Experience your Umrah and Ziyarat with comfort and peace of mind. Our knowledgeable drivers guide you through sacred sites in Makkah and Madinah, including Jabal al-Nour, Arafat, Mina, and the historic mosques of Madinah.",
+    "icon": "Moon",
+    "features": ["Ziyarat tours", "Multi-language drivers", "Flexible timing", "Group bookings"],
+    "color": "gold"
+  },
+  {
+    "id": "intercity-transfer",
+    "title": "Intercity Transfer",
+    "shortDesc": "Comfortable long-distance travel between Saudi cities.",
+    "description": "Travel between cities in comfort and style. Whether it's Makkah to Madinah, Jeddah to Taif, or Riyadh to Dammam, we provide safe, air-conditioned transport with experienced drivers who know the routes.",
+    "icon": "Route",
+    "features": ["All major routes", "Comfortable seating", "Experienced drivers", "Competitive rates"],
+    "color": "green"
+  },
+  {
+    "id": "city-tour",
+    "title": "City Tour",
+    "shortDesc": "Explore the beauty and history of Saudi cities with expert guides.",
+    "description": "Discover the rich heritage and modern attractions of Saudi Arabia's major cities. From the historic districts of Jeddah to the vibrant streets of Riyadh, our city tours offer a perfect blend of culture and comfort.",
+    "icon": "MapPin",
+    "features": ["Custom itineraries", "Historical sites", "Photo stops", "Half/full day options"],
+    "color": "gold"
+  },
+  {
+    "id": "with-driver",
+    "title": "With Driver",
+    "shortDesc": "Hire a professional driver by the hour or day for any need.",
+    "description": "Need a dedicated driver for your travels? Hire our professional chauffeurs by the hour or day. Perfect for business trips, family outings, or multi-stop journeys with flexible scheduling.",
+    "icon": "UserRound",
+    "features": ["Hourly or daily hire", "Professional chauffeurs", "Multi-stop trips", "Flexible scheduling"],
+    "color": "green"
+  },
+  {
+    "id": "self-drive",
+    "title": "Self Drive",
+    "shortDesc": "Rent a premium vehicle and drive yourself across Saudi Arabia.",
+    "description": "Prefer to drive yourself? Choose from our fleet of well-maintained vehicles for self-drive rental. All vehicles come with full insurance, GPS navigation, and 24/7 roadside assistance.",
+    "icon": "Car",
+    "features": ["Full insurance", "GPS included", "24/7 roadside assist", "Flexible rental periods"],
+    "color": "gold"
+  }
+]

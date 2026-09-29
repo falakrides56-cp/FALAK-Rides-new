@@ -1,0 +1,62 @@
+[
+  {
+    "id": "route-1",
+    "from": "Jeddah Airport",
+    "to": "Makkah",
+    "duration": "45 min",
+    "distance": "75 km",
+    "priceFrom": 120,
+    "popular": true,
+    "image": "makkah-route"
+  },
+  {
+    "id": "route-2",
+    "from": "Makkah",
+    "to": "Madinah",
+    "duration": "4 hrs",
+    "distance": "420 km",
+    "priceFrom": 350,
+    "popular": true,
+    "image": "madinah-route"
+  },
+  {
+    "id": "route-3",
+    "from": "Madinah Airport",
+    "to": "Madinah City",
+    "duration": "25 min",
+    "distance": "20 km",
+    "priceFrom": 80,
+    "popular": true,
+    "image": "madinah-airport"
+  },
+  {
+    "id": "route-4",
+    "from": "Jeddah",
+    "to": "Taif",
+    "duration": "2 hrs",
+    "distance": "170 km",
+    "priceFrom": 200,
+    "popular": false,
+    "image": "taif-route"
+  },
+  {
+    "id": "route-5",
+    "from": "Riyadh Airport",
+    "to": "Riyadh City",
+    "duration": "40 min",
+    "distance": "35 km",
+    "priceFrom": 100,
+    "popular": false,
+    "image": "riyadh-route"
+  },
+  {
+    "id": "route-6",
+    "from": "Riyadh",
+    "to": "Dammam",
+    "duration": "4 hrs",
+    "distance": "400 km",
+    "priceFrom": 400,
+    "popular": false,
+    "image": "dammam-route"
+  }
+]

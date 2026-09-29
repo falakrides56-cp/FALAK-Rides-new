@@ -1,0 +1,54 @@
+[
+  {
+    "id": "sedan",
+    "name": "Sedan (Economy)",
+    "category": "Sedan",
+    "image": "sedan",
+    "passengers": 4,
+    "luggage": 3,
+    "ac": true,
+    "features": ["Air conditioned", "Comfortable seats", "USB charging", "Bluetooth audio"],
+    "priceFrom": 120,
+    "currency": "SAR",
+    "description": "A reliable and economical sedan perfect for solo travelers or small families. Equipped with modern amenities for a comfortable journey."
+  },
+  {
+    "id": "suv",
+    "name": "SUV (Standard)",
+    "category": "SUV",
+    "image": "suv",
+    "passengers": 6,
+    "luggage": 5,
+    "ac": true,
+    "features": ["Spacious interior", "4WD capability", "Premium seats", "Extra luggage space"],
+    "priceFrom": 200,
+    "currency": "SAR",
+    "description": "A versatile SUV offering ample space for families and groups. Ideal for intercity travel and varying terrain conditions."
+  },
+  {
+    "id": "luxury",
+    "name": "Luxury Sedan",
+    "category": "Luxury",
+    "image": "luxury",
+    "passengers": 4,
+    "luggage": 3,
+    "ac": true,
+    "features": ["Leather interior", "Premium sound system", "Climate control", "Refreshments"],
+    "priceFrom": 350,
+    "currency": "SAR",
+    "description": "Travel in style with our luxury sedan. Features premium leather seating, advanced comfort systems, and a refined ride experience."
+  },
+  {
+    "id": "van",
+    "name": "Van (7-Seater)",
+    "category": "Van",
+    "image": "van",
+    "passengers": 8,
+    "luggage": 8,
+    "ac": true,
+    "features": ["Extra large capacity", "Dual AC zones", "Removable seats", "Perfect for groups"],
+    "priceFrom": 280,
+    "currency": "SAR",
+    "description": "A spacious van designed for larger groups and families. Accommodates up to 8 passengers with generous luggage capacity."
+  }
+]

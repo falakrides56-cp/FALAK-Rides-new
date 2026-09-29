@@ -1,0 +1,101 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --background: 0 0% 100%;
+    --foreground: 142 64% 15%;
+    --card: 0 0% 100%;
+    --card-foreground: 142 64% 15%;
+    --popover: 0 0% 100%;
+    --popover-foreground: 142 64% 15%;
+    --primary: 142 64% 15%;
+    --primary-foreground: 0 0% 98%;
+    --secondary: 142 20% 94%;
+    --secondary-foreground: 142 64% 15%;
+    --muted: 142 10% 96%;
+    --muted-foreground: 142 8% 42%;
+    --accent: 25 95% 53%;
+    --accent-foreground: 0 0% 100%;
+    --destructive: 0 84% 60%;
+    --destructive-foreground: 0 0% 98%;
+    --border: 142 15% 90%;
+    --input: 142 15% 90%;
+    --ring: 142 64% 15%;
+    --radius: 0.75rem;
+  }
+}
+
+@layer base {
+  * {
+    @apply border-border;
+  }
+  body {
+    @apply bg-background text-foreground font-sans antialiased;
+    font-feature-settings: "cv02", "cv03", "cv04", "cv11";
+  }
+  h1, h2, h3, h4, h5, h6 {
+    @apply font-sans font-bold tracking-tight text-brand-green-800;
+  }
+}
+
+@layer components {
+  .text-gradient-gold {
+    @apply bg-gradient-to-r from-brand-gold-600 via-brand-gold-500 to-brand-gold-400 bg-clip-text text-transparent;
+  }
+  .text-gradient-green {
+    @apply bg-gradient-to-r from-brand-green-700 via-brand-green-600 to-brand-green-500 bg-clip-text text-transparent;
+  }
+  .btn-primary-gradient {
+    background: linear-gradient(135deg, #0B3D2E 0%, #175a43 100%);
+    @apply text-white font-semibold rounded-xl transition-all duration-200 shadow-green hover:shadow-green-lg active:scale-[0.98];
+  }
+  .btn-gold-gradient {
+    background: linear-gradient(135deg, #EA580C 0%, #FB923C 50%, #F97316 100%);
+    @apply text-white font-semibold rounded-xl transition-all duration-200 shadow-gold hover:shadow-gold-lg active:scale-[0.98];
+  }
+  .card-brand {
+    @apply bg-white rounded-2xl border border-brand-green-100/70 shadow-soft transition-all duration-300 hover:shadow-green-lg hover:border-brand-gold-200;
+  }
+  .section-padding {
+    @apply py-16 md:py-24 px-4 sm:px-6 lg:px-8;
+  }
+  .container-brand {
+    @apply max-w-7xl mx-auto;
+  }
+  .nav-link {
+    @apply text-sm font-medium text-brand-green-800 hover:text-brand-gold-600 transition-colors duration-200 relative py-1;
+  }
+  .nav-link::after {
+    content: '';
+    @apply absolute -bottom-0.5 left-0 w-0 h-0.5 bg-brand-gold-500 transition-all duration-300 rounded-full;
+  }
+  .nav-link:hover::after,
+  .nav-link.active::after {
+    @apply w-full;
+  }
+}
+
+@layer utilities {
+  .animate-on-scroll {
+    opacity: 0;
+    transform: translateY(20px);
+    transition: opacity 0.5s cubic-bezier(0.16, 1, 0.3, 1), transform 0.5s cubic-bezier(0.16, 1, 0.3, 1);
+  }
+  .animate-on-scroll.is-visible {
+    opacity: 1;
+    transform: translateY(0);
+  }
+  .scrollbar-brand::-webkit-scrollbar {
+    width: 6px;
+    height: 6px;
+  }
+  .scrollbar-brand::-webkit-scrollbar-track {
+    background: #F5F0E6;
+  }
+  .scrollbar-brand::-webkit-scrollbar-thumb {
+    background: #F97316;
+    border-radius: 4px;
+  }
+}

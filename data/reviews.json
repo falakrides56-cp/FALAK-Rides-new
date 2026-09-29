@@ -1,0 +1,122 @@
+[
+  {
+    "id": "rev-001",
+    "name": "Ahmed Al-Saud",
+    "location": "Riyadh, Saudi Arabia",
+    "rating": 5,
+    "date": "2025-08-15",
+    "avatar": "AS",
+    "service": "Airport Transfer",
+    "comment": "Excellent service from Jeddah Airport to Makkah. The driver was on time, very professional, and the car was spotless. Made our Umrah journey so much easier."
+  },
+  {
+    "id": "rev-002",
+    "name": "Fatima Hassan",
+    "location": "Dubai, UAE",
+    "rating": 5,
+    "date": "2025-08-10",
+    "avatar": "FH",
+    "service": "Umrah & Ziyarat",
+    "comment": "Wonderful experience! Our driver knew all the Ziyarat spots in Madinah and was very knowledgeable. The vehicle was comfortable and clean. Highly recommend Falak Ride."
+  },
+  {
+    "id": "rev-003",
+    "name": "Mohammed Rahman",
+    "location": "London, UK",
+    "rating": 5,
+    "date": "2025-07-28",
+    "avatar": "MR",
+    "service": "Intercity Transfer",
+    "comment": "Travelled from Makkah to Madinah with Falak Ride. Smooth booking process, fair pricing, and a very safe driver. Will definitely use them again on my next visit."
+  },
+  {
+    "id": "rev-004",
+    "name": "Aisha Khan",
+    "location": "Karachi, Pakistan",
+    "rating": 4,
+    "date": "2025-07-20",
+    "avatar": "AK",
+    "service": "Airport Transfer",
+    "comment": "Great service overall. Driver was friendly and the car was comfortable. Slight delay at pickup but they communicated well. Would recommend."
+  },
+  {
+    "id": "rev-005",
+    "name": "Omar Farooq",
+    "location": "Istanbul, Turkey",
+    "rating": 5,
+    "date": "2025-07-12",
+    "avatar": "OF",
+    "service": "With Driver",
+    "comment": "Hired a driver for 3 days during our family trip. Very professional, punctual, and spoke good English. Made our trip stress-free. Thank you Falak Ride!"
+  },
+  {
+    "id": "rev-006",
+    "name": "Khadija Ibrahim",
+    "location": "Cairo, Egypt",
+    "rating": 5,
+    "date": "2025-06-30",
+    "avatar": "KI",
+    "service": "Umrah & Ziyarat",
+    "comment": "The Ziyarat tour in Madinah was amazing. Our driver took us to all the historical mosques and explained the significance of each place. A blessed experience."
+  },
+  {
+    "id": "rev-007",
+    "name": "Yusuf Demir",
+    "location": "Berlin, Germany",
+    "rating": 5,
+    "date": "2025-06-18",
+    "avatar": "YD",
+    "service": "City Tour",
+    "comment": "Booked a city tour in Riyadh. The driver was excellent and showed us all the important landmarks. The luxury sedan was very comfortable. Five stars!"
+  },
+  {
+    "id": "rev-008",
+    "name": "Zainab Ali",
+    "location": "Jakarta, Indonesia",
+    "rating": 4,
+    "date": "2025-06-05",
+    "avatar": "ZA",
+    "service": "Intercity Transfer",
+    "comment": "Good service from Jeddah to Taif. The mountain road was handled very well by the driver. Reasonable price for the quality provided."
+  },
+  {
+    "id": "rev-009",
+    "name": "Ibrahim Coulibaly",
+    "location": "Paris, France",
+    "rating": 5,
+    "date": "2025-05-22",
+    "avatar": "IC",
+    "service": "Airport Transfer",
+    "comment": "Punctual, professional, and pleasant. The WhatsApp booking was so convenient. The driver was waiting for us at Madinah airport with a name sign. Excellent!"
+  },
+  {
+    "id": "rev-010",
+    "name": "Sara Abdullah",
+    "location": "Amman, Jordan",
+    "rating": 5,
+    "date": "2025-05-10",
+    "avatar": "SA",
+    "service": "Umrah & Ziyarat",
+    "comment": "Traveled with my elderly parents for Umrah. The driver was incredibly patient and helpful. The van was spacious and comfortable for all of us. Jazakallah khair."
+  },
+  {
+    "id": "rev-011",
+    "name": "Hassan Mousa",
+    "location": "Beirut, Lebanon",
+    "rating": 5,
+    "date": "2025-04-28",
+    "avatar": "HM",
+    "service": "With Driver",
+    "comment": "Used Falak Ride for a business trip in Riyadh. Professional service, clean luxury car, and a driver who knew the city well. Will use again for sure."
+  },
+  {
+    "id": "rev-012",
+    "name": "Maryam Suleiman",
+    "location": "Nairobi, Kenya",
+    "rating": 4,
+    "date": "2025-04-15",
+    "avatar": "MS",
+    "service": "City Tour",
+    "comment": "Enjoyed the Jeddah city tour. The historic district was beautiful and the driver was knowledgeable. Would have liked more time at some stops but overall great."
+  }
+]

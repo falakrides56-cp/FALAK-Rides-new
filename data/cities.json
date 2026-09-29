@@ -1,0 +1,9 @@
+[
+  { "value": "riyadh", "label": "Riyadh" },
+  { "value": "jeddah", "label": "Jeddah" },
+  { "value": "dammam", "label": "Dammam" },
+  { "value": "al-khobar", "label": "Al Khobar" },
+  { "value": "makkah", "label": "Makkah" },
+  { "value": "madinah", "label": "Madinah" },
+  { "value": "taif", "label": "Taif" }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "id": "team-1",
+    "name": "Abdul Rahman Al-Harbi",
+    "role": "Founder & CEO",
+    "avatar": "AR",
+    "bio": "With over 15 years in the transport industry, Abdul Rahman founded Falak Ride to provide premium, reliable transport for pilgrims visiting the holy cities."
+  },
+  {
+    "id": "team-2",
+    "name": "Khalid Al-Otaibi",
+    "role": "Operations Manager",
+    "avatar": "KO",
+    "bio": "Khalid oversees daily operations and ensures every ride meets our high standards of safety, comfort, and punctuality."
+  },
+  {
+    "id": "team-3",
+    "name": "Saud Al-Ghamdi",
+    "role": "Fleet Manager",
+    "avatar": "SG",
+    "bio": "Saud manages our diverse fleet, ensuring every vehicle is maintained to the highest standards for your comfort and safety."
+  },
+  {
+    "id": "team-4",
+    "name": "Faisal Al-Qahtani",
+    "role": "Customer Relations",
+    "avatar": "FQ",
+    "bio": "Faisal leads our customer support team, available 24/7 to assist with bookings, questions, and any travel needs."
+  }
+]

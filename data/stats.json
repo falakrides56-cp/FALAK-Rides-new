@@ -1,0 +1,6 @@
+[
+  { "id": "stat-1", "value": "10,000+", "label": "Pilgrims Served", "icon": "Users" },
+  { "id": "stat-2", "value": "500+", "label": "Trips Monthly", "icon": "Car" },
+  { "id": "stat-3", "value": "24/7", "label": "Support Available", "icon": "Clock" },
+  { "id": "stat-4", "value": "5-Star", "label": "Average Rating", "icon": "Star" }
+]
